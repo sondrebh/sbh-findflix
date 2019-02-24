@@ -1,0 +1,22 @@
+{
+  "name": "flixscraperv3",
+  "version": "1.0.5",
+  "description": "A microservice that scrapes netflix.com?so=az for movies and tv shows and them dumping the names",
+  "main": "flixscraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "norgeflix"
+  ],
+  "author": "Sondre Bye Humberset",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "puppeteer": "^1.12.1",
+    "request": "^2.88.0"
+  }
+}
