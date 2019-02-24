@@ -1,0 +1,18 @@
+- Partially finish design ----- Done
+  - All on load options
+  - All advanced options
+  - Icons and "slot machine" effect (animation)
+- Make all functionalities work ----- Done
+  - Apply all filters
+  - Send the updated movies list to the server and live-update
+- Re-write flixScraper (because off wet and nasty code) -- Done
+- Secure with anti-dos etc -- Done
+- Finish up everything, re-do project folder -- Done
+
+//
+- Default card/ poster of the logo and saying we couldnt
+find a movie/ poster
+
+AfterEdit:
+ - Make custom select
+

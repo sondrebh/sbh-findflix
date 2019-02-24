@@ -1,0 +1,12 @@
+Entry:
+
+06.02.2019: On some occasions the scraper migth get the wrong
+movie based on the OMDB API Title request;
+Fixed: 18.02.2019
+
+06.02.2019: If site can't find the poster of a certain movie 
+it displays the "couldn't find" icon. This will be replaced 
+with a default photo with the site logo saying "Oops, couldn't
+find a poster for this movie".
+Fixed: 14.02.2019
+
