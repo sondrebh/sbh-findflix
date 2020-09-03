@@ -16,7 +16,7 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "puppeteer": "^1.12.1",
+    "puppeteer": "^1.13.0",
     "request": "^2.88.0"
   }
 }
